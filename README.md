@@ -1,5 +1,6 @@
 # ProgramlamaDillerininPrensipleri-Java2
 
+Sakarya Üniversitesi 2019 - 2020 eğitim öğretim yılı Programlama Dillerinin Prensipleri dersi projesinin kaynak kodlarını içermektedir.
 
 Java programlama dilini kullanarak (NetBeans ortamında) rastgele kişi üretebilerek kütüphane tasarlanmıştır. Bu kütüphane çalıştırılabilir bir program değildir. Kişi sınıfı özellikleri;
 - T.C. Kimlik (Nesne referansı)
